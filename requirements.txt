@@ -5,7 +5,7 @@ python-dotenv<=1.0.0
 motor<=3.3.1
 aiofiles<=23.2.1
 dnspython<=2.4.2
-apscheduler
-requests
+apscheduler<=3.10.4
+requests<=2.31.0
 psutil
-pyromod
+pyromod<=2.1.0
